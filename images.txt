@@ -3,3 +3,4 @@ rabbitmq:4.0-management
 docker.elastic.co/kibana/kibana:7.17.24
 docker.elastic.co/elasticsearch/elasticsearch:7.17.24
 mongodb/mongodb-community-server:8.0.4-rc0-ubuntu2204
+redis
