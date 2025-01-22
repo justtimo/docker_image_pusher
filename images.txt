@@ -5,3 +5,4 @@ docker.elastic.co/elasticsearch/elasticsearch:7.17.24
 mongodb/mongodb-community-server:8.0.4-rc0-ubuntu2204
 redis
 nginx
+mysql
